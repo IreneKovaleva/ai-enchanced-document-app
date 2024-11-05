@@ -1,0 +1,9 @@
+.app-styles {
+    font-family: sans-serif Georgia;
+}
+
+.app-body {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    background: rgba(4, 59, 92, 1);
+}

@@ -1,0 +1,13 @@
+click==8.1.7
+gensim==4.3.3
+joblib==1.4.2
+nltk==3.9.1
+regex==2024.9.11
+smart-open==7.0.5
+pinecone
+tqdm==4.65.0
+wrapt==1.16.0
+gensim==4.3.3
+google-api-core
+
+
